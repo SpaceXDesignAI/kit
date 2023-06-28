@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.20.6
+
+### Patch Changes
+
+- docs: update inline NavigationType documentation ([`f9f60c060`](https://github.com/sveltejs/kit/commit/f9f60c060dad1ef4394afd2932e1d21b024cf4e7))
+
 ## 1.20.5
 
 ### Patch Changes
